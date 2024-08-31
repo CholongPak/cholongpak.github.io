@@ -16,7 +16,7 @@ timezone: America/Winnipeg
 
 title: Cholong # the main title
 
-tagline: Cholong Pak's Blog # it will display as the subtitle
+tagline: Cholong Pak's Tech Blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   This blog is for technical writing.
