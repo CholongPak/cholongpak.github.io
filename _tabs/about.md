@@ -11,17 +11,17 @@ I’m a Business Information Technology student at Red River College Polytechnic
 
 My main interests lie in networking and cloud security, and I am eager to apply my software development and network security skills in practical settings.
 
-**Experience**
-Student Security Analyst - Manitoba Hydro | May 2025 - Present 
-Desktop Technician Co-op - CGI | Sep 2024 - May 2025
-Cyber Security Analyst Intern - SingleParentLife.app | Jan 2024 - Mar 2024 
+**Experience**  
+Student Security Analyst - Manitoba Hydro | May 2025 - Present  
+Desktop Technician Co-op - CGI | Sep 2024 - May 2025  
+Cyber Security Analyst Intern - SingleParentLife.app | Jan 2024 - Mar 2024  
 
-**Licenses & certifications**
-SC-900: Microsoft Certified: Security, Compliance, and Identity FundamentalsSC
-AZ-900: Microsoft Certified: Azure Fundamentals
-AI-900: Microsoft Certified: Azure AI Fundamentals
-AI-102: Microsoft Certified: Azure AI Engineer Associate
-GitHub Advanced Security
-GitHub Foundations
-CCNA: Introduction to Networks
-Certified SAFe® 6 Practitioner
+**Licenses & certifications**  
+SC-900: Microsoft Certified: Security, Compliance, and Identity FundamentalsSC  
+AZ-900: Microsoft Certified: Azure Fundamentals  
+AI-900: Microsoft Certified: Azure AI Fundamentals  
+AI-102: Microsoft Certified: Azure AI Engineer Associate  
+GitHub Advanced Security  
+GitHub Foundations  
+CCNA: Introduction to Networks  
+Certified SAFe® 6 Practitioner  
