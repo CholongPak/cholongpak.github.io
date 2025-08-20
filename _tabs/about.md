@@ -11,8 +11,8 @@ I’m a Business Information Technology student at Red River College Polytechnic
 
 My main interests lie in networking and cloud security, and I am eager to apply my software development and network security skills in practical settings.
 
-**Education**
-RRC Polytech - Business Information Technology (Diploma)
+**Education**  
+RRC Polytech - Business Information Technology (Diploma)  
 
 **Experience**  
 Student Security Analyst - Manitoba Hydro | May 2025 - Present  
