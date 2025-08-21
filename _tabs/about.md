@@ -20,7 +20,7 @@ Desktop Technician Co-op - CGI | Sep 2024 - May 2025
 Cyber Security Analyst Intern - SingleParentLife.app | Jan 2024 - Mar 2024  
 
 **Licenses & certifications**  
-SC-900: Microsoft Certified: Security, Compliance, and Identity FundamentalsSC  
+SC-900: Microsoft Certified: Security, Compliance, and Identity Fundamentals  
 AZ-900: Microsoft Certified: Azure Fundamentals  
 AI-900: Microsoft Certified: Azure AI Fundamentals  
 AI-102: Microsoft Certified: Azure AI Engineer Associate  
