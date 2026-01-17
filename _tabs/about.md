@@ -29,5 +29,5 @@ AI-102: Microsoft Certified: Azure AI Engineer Associate
 GitHub Advanced Security  
 GitHub Foundations  
 CCNA: Introduction to Networks  
-AWS Academy Graduate - Cloud Foundations
-Google Cybersecurity Professional Certificate(v.2)
+AWS Academy Graduate - Cloud Foundations  
+Google Cybersecurity Professional Certificate(v.2)  
