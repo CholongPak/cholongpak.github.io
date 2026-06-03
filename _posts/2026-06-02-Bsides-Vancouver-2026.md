@@ -14,7 +14,7 @@ However, volunteering at BSides Vancouver was exactly the turning point I needed
 
 For both days, I was at the registration desk, welcoming attendees and helping them check in. My goal was to make the process as fast and smooth as possible so no one had to wait in line. I also enjoyed answering questions and helping out wherever I could.
 
-The experience turned out to be more than just about IT networking. I even had a special moment helping an elderly local who was looking for a nearby bookstore. With some help from my fellow volunteers, I was able to walk her to the street she was looking for. Even though I’m deep into my IT studies, I believe that every piece of technology ultimately serves people. Being able to connect with others and help them out was one of the most rewarding parts of my weekend.
+The experience turned out to be more than just IT networking. I had a special moment helping an elderly local who was looking for a nearby bookstore. Since I was able to walk her to the street she was looking for, I was reminded that every piece of technology ultimately serves people. Connecting with others and being of help turned out to be one of the most rewarding parts of my weekend.
 
 Throughout the event, I managed to attend some sessions that were really interesting. Here are a few highlights:
 
