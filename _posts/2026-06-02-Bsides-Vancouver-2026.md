@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My First BSides Vancouver: Finding My Spark Again"
+title: "Volunteering at BSides Vancouver 2026"
 date: 2026-06-02 19:12:00 -0800
 categories: [ETC, "Events"]
 tags: [security, bsides, event]
@@ -8,29 +8,26 @@ tags: [security, bsides, event]
 
 ![MyBadge](/assets/img/events/MyBadge.png)
 
-To be honest, it’s been a tough few months. Since graduating, I’ve been job hunting, and my confidence was starting to fade. I found myself losing focus and even getting a bit lazy with my IT studies. I felt like I was losing my momentum.
+This was my first time attending a BSides conference, and also my first time volunteering at an IT event since moving from Winnipeg to Vancouver. I had been job hunting a lot since graduating, so getting out and joining this community was a good change of pace. Being around this community again reminded me why I liked learning IT in the first place.
 
-However, volunteering at BSides Vancouver was exactly the turning point I needed. It was my first time attending a BSides conference and my first time volunteering at an IT event since moving from Winnipeg to Vancouver. Getting out of my bubble and immersing myself in this community helped me regain my passion for learning.
+For both days, I was at the registration desk, welcoming attendees and helping them check in. My goal was to make the process fast and smooth so no one had to wait in line. I also enjoyed answering questions and helping out wherever I could.
 
-For both days, I was at the registration desk, welcoming attendees and helping them check in. My goal was to make the process as fast and smooth as possible so no one had to wait in line. I also enjoyed answering questions and helping out wherever I could.
+The experience was more than just IT networking. I had a nice moment helping an elderly local who was looking for a nearby bookstore. I used Google Maps to guide her, and walked her all the way to the street she was looking for. It reminded me that technology is there to help people. Connecting with others and being helpful was one of the best parts of my weekend.
 
-The experience turned out to be more than just IT networking. I had a special moment helping an elderly local who was looking for a nearby bookstore. Using Google Maps to guide her, I was able to walk her all the way to the street she was looking for. It reminded me that every piece of technology ultimately serves people. Connecting with others and being of help turned out to be one of the most rewarding parts of my weekend.
-
-Throughout the event, I managed to attend some sessions that were really interesting. Here are a few highlights:
+Throughout the event, I went to some sessions that were really interesting. Here are a few highlights:
 
 ### Behind The Dashboard: Tales of Car Hacking - Kevin Chen  
-This session was mind-blowing. We looked at how to research vehicle vulnerabilities—covering everything from infotainment systems to modern key fobs. It was eye-opening to see how vehicle bug hunting. Learning about different attack surfaces and real-world scenarios has definitely sparked a new passion for automotive security in me.  
+This session was amazing. We learned about how he finds vulnerabilities in vehicles — everything from infotainment systems to modern key fobs. It was eye-opening to see how vehicle bug hunting works in practice. Learning about the different attack surfaces and real examples gave me a new interest in automotive security. 
 ![car_hacking](/assets/img/events/car_hacking.png)
 
 ### Binary Exploitation - Leigh Trinity  
-I had the privilege of meeting Leigh, who is a brilliant professional and a fantastic person, at the VIP party. I was really looking forward to her session, but my volunteer shift unfortunately overlapped with it. Even though I couldn't attend the whole thing, I managed to catch about 30 minutes, and her explanation of how the stack works was fantastic—it finally clicked for me! I’ve already subscribed to her YouTube channel (@LeighTrinity) and am really looking forward to learning more from her content.  
+I met Leigh at the VIP party, and I really admire her work. I was looking forward to her session, but my volunteer shift overlapped with it. I only caught about 30 minutes, but her explanation of how the stack works was great. It finally made sense to me. I already subscribed to her YouTube channel (@LeighTrinity) and want to learn more from her content.  
 ![binary_explitation](/assets/img/events/binary_explitation.png)
 
 ### The Heartbeat is Lying: Proving Physical Truth in a Spoofed OT Network - Parisa Saqib  
-Since I previously worked at Manitoba Hydro, this session was right up my alley. Parisa talked about "integrity attacks," where a system might show that everything is "healthy" on a monitor, even while the actual physical equipment is being tampered with. It really changed how I think about security—it’s not just about what’s on the dashboard, but about having the right mindset to verify what’s happening in the real world. She also shared some great resources that I’ll definitely use to continue my studies in OT security.  
+Since I used to work at Manitoba Hydro, this session was really interesting to me. Parisa talked about "integrity attacks," where a system can show everything is "healthy" on a monitor, even when the real equipment is being attacked. It changed how I think about security — it's not just about what's on the dashboard, but about knowing how to check what's really happening. She also shared some good resources for learning more about OT security.  
 ![OT_security](/assets/img/events/OT_security.png)
 
-At the after-party, I took every chance I could to ask experienced professionals for advice. The common theme was clear: "Networking is everything, and the people you surround yourself with will really shape your career." They also stressed how important it is to keep working on certifications like Security+ and CCNA.  
+At the after-party, I asked experienced professionals for advice whenever I got the chance. One thing came up again and again: networking matters, and the people around you shape your career. They also told me to keep working on certifications like Security+ and CCNA.
 
-Even though volunteering was more tiring than I expected, it was an incredibly insightful and rewarding experience.  
-I’m already looking forward to volunteering again next year—who knows, maybe I'll even aim to join the board one day!
+Volunteering was more tiring than I expected, but it was a great and rewarding way to spend the weekend. I'm already looking forward to volunteering again next year!
