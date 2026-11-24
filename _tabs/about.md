@@ -22,7 +22,7 @@ Desktop Technician Co-op - CGI | Sep 2024 - May 2025
 Cyber Security Analyst Intern - SingleParentLife.app | Jan 2024 - Mar 2024  
 
 **Licenses & certifications**  
-MD-102: Microsoft Endpoint Administrator Associate
+MD-102: Microsoft Endpoint Administrator Associate  
 SC-900: Microsoft Certified: Security, Compliance, and Identity Fundamentals  
 AZ-900: Microsoft Certified: Azure Fundamentals  
 AI-900: Microsoft Certified: Azure AI Fundamentals  
